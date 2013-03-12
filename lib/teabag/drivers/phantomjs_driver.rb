@@ -1,4 +1,3 @@
-require "phantomjs"
 require "teabag/runner"
 require 'teabag/utility'
 
